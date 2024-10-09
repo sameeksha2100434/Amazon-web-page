@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone
+# 🛒 Amazon Webpage Clone
 This is a simple **Amazon-like website** built with HTML, CSS, and FontAwesome icons, designed to mimic the basic layout of the Amazon homepage.
 
 ## 🚀 Technologies Used:
